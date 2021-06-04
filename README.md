@@ -5,7 +5,7 @@ Some of my other interests and skills lie in machine learning, quantitative fina
 
 
 [//]: # (<a href="https://github.com/SherrieTsao/SherrieTsao">)
- [//]: # ( <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrieTsao&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true" />)
+ [//]: # ( <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrieCao&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true" />)
 [//]: # (</a>)
 
 <a href="https://github.com/SherrieTsao/SherrieTsao">
