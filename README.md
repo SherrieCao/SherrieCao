@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sherrie, and I love developing software!
+I'm Sherrie, writing in TS, JS, python, HTML and CSS. Currently heavily focus on React Native. 
 Some of my other interests and skills lie in data analysis, quantitative finance, and Development Economics.
 
 
