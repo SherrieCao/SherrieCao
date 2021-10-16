@@ -4,7 +4,7 @@ I'm Sherrie, writing in TS, JS, python, HTML and CSS. Currently heavily focus on
 Some of my other interests and skills lie in data analysis, quantitative finance, and Development Economics.
 
 
-[//]: # (<a href="https://github.com/SherrieTsao/SherrieTsao">)
+[//]: # (<a href="https://github.com/SherrieCao/Sherriecao">)
  [//]: # ( <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrieCao&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true" />)
 [//]: # (</a>)
 
