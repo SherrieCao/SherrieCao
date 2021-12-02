@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Sherrie, writing in TS, JS, python, HTML and CSS. Currently heavily focus on React Native. 
-Some of my other interests and skills lie in data analysis, quantitative finance, and Development Economics.
+I'm Sherrie, writing in JS, python, C/C++ and more. Currently heavily focus on social network analysis. 
+Some of my other interests and skills lie in UX/UI, quantitative finance, and Development Economics.
 
 
 [//]: # (<a href="https://github.com/SherrieCao/Sherriecao">)
