@@ -9,9 +9,8 @@ Some of my other interests and skills lie in UX/UI, quantitative finance, and De
 [//]: # (</a>)
 
 ## My Commit 🕶 
-<a href="https://github.com/SherrieTsao/SherrieTsao">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=SherrieCao&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true" />
-</a>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=SherrieCao&show_icons=true&count_private=true&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true&theme=swift" />
+
 
 ## My Github Contribution 🤩
 ![](https://raw.githubusercontent.com/SherrieCao/SherrieCao/main/assets/github-contribution-grid-snake.svg)
