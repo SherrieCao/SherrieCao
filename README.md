@@ -11,8 +11,8 @@ Some of my other interests and skills lie in UX/UI, quantitative finance, and De
 ## My Commit 🕶 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=SherrieCao&show_icons=true&count_private=true&theme=buefy&icon_color=89E153&hide_border=true&hide=prs,contribs" />
 
-## My Languages 🎶
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrieCao&theme=buefy" />
+<!-- ## My Languages 🎶
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrieCao&theme=buefy" /> -->
 
 
 ## My Github Contribution 🤩
