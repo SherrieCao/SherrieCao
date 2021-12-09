@@ -9,7 +9,7 @@ Some of my other interests and skills lie in UX/UI, quantitative finance, and De
 [//]: # (</a>)
 
 ## My Commit 🕶 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=SherrieCao&show_icons=true&count_private=true&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true&theme=swift" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=SherrieCao&show_icons=true&count_private=true&theme=swift&icon_color=89E153&hide_border=true&hide=stars,commits,issues" />
 
 
 ## My Github Contribution 🤩
