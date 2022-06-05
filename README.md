@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sherrie, writing in JS, python, C/C++ and more. Currently heavily focus on social network analysis. 
+I'm Sherrie, MSSM @ CMU SV, writing in JS/TS, python, C/C++ and more. Currently heavily focus on social network analysis (and some ventures). 
 Some of my other interests and skills lie in UX/UI, quantitative finance, and Development Economics.
 
 
