@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Sherrie, MSSM @ CMU SV, writing in JS/TS, python, C/C++ and more. Currently heavily focus on social network analysis (and some ventures). 
-Some of my other interests and skills lie in UX/UI, quantitative finance, and Development Economics.
+I'm Sherrie, MSSM @ CMU SV, writing in JS/TS, python, C/C++ and more. Currently heavily focus on AI + immersive technology + social network (and some ventures). 
+Some of my other interests and skills lie in UX/UI, quantitative finance, and development economics.
 
 
 [//]: # (<a href="https://github.com/SherrieCao/Sherriecao">)
