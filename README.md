@@ -18,8 +18,8 @@ Some of my other interests and skills lie in UX/UI, quantitative finance, and de
 ## My Github Contribution 🤩
 ![](https://raw.githubusercontent.com/SherrieCao/SherrieCao/main/assets/github-contribution-grid-snake.svg)
 
-## Always working... 💻
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false)
+<!-- ## Always working... 💻
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
 [//]: # (<a href="https://github.com/SherrieTsao/SherrieTsao">)
 
