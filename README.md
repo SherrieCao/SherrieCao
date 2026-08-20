@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Sherrie, MSSM @ CMU SV, writing in python, JS/TS, C/C++ and more. Currently heavily focus on AI + immersive technology + social network (and some other ventures). 
-
+I'm Sherrie, Potato's hooman. Writing in python, JS/TS, C/C++ and more.
 
 [//]: # (<a href="https://github.com/SherrieCao/Sherriecao">)
  [//]: # ( <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrieCao&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&hide_border=true" />)
